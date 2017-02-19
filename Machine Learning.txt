@@ -1,0 +1,27 @@
+Real-World Machine Learning 2017 (4.6/3)
+Machine Learning Using R 2017
+Machine Learning Paradigms: Artificial Immune Systems and their Applications in Software Personalization 2017
+Large Scale Machine Learning with Python 2016 (5.0/2)
+Financial Signal Processing and Machine Learning 2016 (4.0/1)
+Introduction to Machine Learning with Python: A Guide for Data Scientists 2016 (3.8/10)
+Designing Machine Learning Systems with Python 2016 (2.0/1)
+Introduction to Statistical Machine Learning 2016
+Machine Learning for Health Informatics: State-of-the-Art and Future Challenges 2016
+Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R 2015 (5.0/2)
+Machine Learning Projects for .NET Developers 2015 (4.7/12)
+Python Machine Learning 2015 (4.2/96)
+Machine Learning in Python: Essential Techniques for Predictive Analysis 2015 (3.9/25)
+Machine Learning With R Cookbook - 110 Recipes for Building Powerful Predictive Models with R 2015 (3.9/10)
+Building Machine Learning Systems with Python 2nd edition 2015 (3.2/5)
+Thoughtful Machine Learning: A Test-Driven Approach 2015 (3.0/6)
+Machine Learning, Optimization, and Big Data 2015
+Machine Learning: An Algorithmic Perspective 2nd edition 2014 (3.9/39)
+Building Machine Learning Systems with Python 2013 (4.1/32)
+Machine Learning: The Art and Science of Algorithms that Make Sense of Data 2012 (4.3/27)
+Bayesian Reasoning and Machine Learning 2012 (4.0/18)
+Machine Learning in Action 2012 (3.7/30)
+Machine Learning for Hackers: Case Studies and Algorithms to Get You Started 2012 (3.1/28)
+Data Mining: Practical Machine Learning Tools and Techniques 3rd edition 2011 (4.2/74)
+Data Mining and Machine Learning in Cybersecurity 2011 (4.0/2)
+Introduction to Pattern Recognition: A Matlab Approach 2010 (3.7/10)
+Machine Learning in Cyber Trust: Security, Privacy, and Reliability 2009th edition 2009
