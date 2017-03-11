@@ -1,14 +1,21 @@
+TensorFlow Machine Learning Cookbook 2017 (5.0/2)
 Real-World Machine Learning 2017 (4.6/3)
 Machine Learning Using R 2017
 Machine Learning Paradigms: Artificial Immune Systems and their Applications in Software Personalization 2017
 Large Scale Machine Learning with Python 2016 (5.0/2)
+Deep Learning 2016 (4.7/51)
+Make Your Own Neural Network 2016 (4.2/103)
 Financial Signal Processing and Machine Learning 2016 (4.0/1)
 Introduction to Machine Learning with Python: A Guide for Data Scientists 2016 (3.8/10)
+Deep Learning in Python 2016 (3.4/18)
+TensorFlow For Machine Intelligence: A hands-on introduction to learning algorithms 2016 (3.4/10)
 Designing Machine Learning Systems with Python 2016 (2.0/1)
+Building Machine Learning Projects with TensorFlow 2016 (1.4/3)
 Introduction to Statistical Machine Learning 2016
 Machine Learning for Health Informatics: State-of-the-Art and Future Challenges 2016
 Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R 2015 (5.0/2)
 Machine Learning Projects for .NET Developers 2015 (4.7/12)
+Fundamentals of Machine Learning for Predictive Data Analytics 2015 (4.6/22)
 Python Machine Learning 2015 (4.2/96)
 Machine Learning in Python: Essential Techniques for Predictive Analysis 2015 (3.9/25)
 Machine Learning With R Cookbook - 110 Recipes for Building Powerful Predictive Models with R 2015 (3.9/10)
