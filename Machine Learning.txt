@@ -40,7 +40,10 @@ Machine Learning for Hackers: Case Studies and Algorithms to Get You Started 201
 Evaluating Learning Algorithms: A Classification Perspective 2011 (4.5/2)
 Data Mining: Practical Machine Learning Tools and Techniques 3rd edition 2011 (4.2/75)
 Data Mining and Machine Learning in Cybersecurity 2011 (4.0/2)
+Learning to Rank for Information Retrieval and Natural Language Processing 2011 (4.0/1)
 Handbook of Natural Language Processing and Machine Translation 2011th edition 2011
 Ensemble Methods in Data Mining: Improving Accuracy Through Combining Predictions 2010 (4.7/10)
+Handbook of Natural Language Processing 2nd edition 2010 (4.0/2)
 Introduction to Pattern Recognition: A Matlab Approach 2010 (3.7/10)
+Introduction to Information Retrieval 2009 (4.4/26)
 Machine Learning in Cyber Trust: Security, Privacy, and Reliability 2009th edition 2009
